@@ -9,7 +9,7 @@ Installation
 Add spree_payu to your Gemfile:
 
 ```ruby
-gem 'spree_payu'
+gem 'spree_payu', github: 'vishalzambre/spree_payu_india', branch: '3-1-stable'
 ```
 
 Bundle your dependencies and run the installation generator:
